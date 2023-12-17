@@ -31,7 +31,7 @@
 4. **Documentation and Guidance**:
     - Create a README or a 'How-to' guide for users and developers.
 5. **Version Control**
-    1. Could not use Github like I would normally because I did not want to push any unfinished code, I was just excited. 
+    - Could not use Github like I would normally because I did not want to push any unfinished code since this challenge is an interview. 
 
 ### Development Challenges and Lessons
 
