@@ -1,4 +1,4 @@
-# Dynamon Coding Challenge:
+# Coding Challenge:
 - The repo contains a NEXT.js boilerplate application for you to start with.
 - Clone the repo and create a feature branch to work on.
 - Create an SPA with a map that presents interaction to the user.
