@@ -4,7 +4,7 @@
 1. **User Experience Enhancements**:
     - Add a language option to enhance accessibility for users speaking different languages.
     - Include a 'My Location' button to allow users to quickly find their current location on the map.
-    - Implement a feature to reverse the route.
+    - Implement a feature to reverse the route and editing routing points.
     - Offer different vehicle profiles with respective routing options (e.g., car, bike, walking).
     - Add an option to restrict user actions for a more guided experience.
     - Incorporate a map view option for different perspectives.
